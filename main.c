@@ -6,7 +6,7 @@ int main() {
     int n = 4;
     int counter;
     //int key = 2;
-    for(counter = 0; counter<n; ++n){
+    for(counter = 0; counter<n; ++counter){
         printf("ACSCII Value = %d", message[counter]);  
     }
     
