@@ -4,7 +4,7 @@
 int main() {
     
     char input[] = "JAMIE";
-    int n = 5;
+    int n = 6;
     int counter;
     int key = 2;
     for(counter = 0; counter<n; counter++){
